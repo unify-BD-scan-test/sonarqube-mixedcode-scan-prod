@@ -19,7 +19,7 @@
 
 </div>
 
-# Table of Contents.
+# Table of Contents
 
 - [What is Open Assistant?](#what-is-open-assistant)
 - [Useful Links](#useful-links)

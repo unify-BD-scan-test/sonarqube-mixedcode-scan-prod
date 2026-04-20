@@ -56,7 +56,7 @@ improving language itself..
 
 The chat frontend is now live [here](https://open-assistant.io/chat). Log in and
 start chatting! Please try to react with a thumbs up or down for the assistant's
-responses when chatting.
+responses when chatting. 
 
 ### Contributing to Data Collection
 

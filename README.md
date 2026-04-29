@@ -30,7 +30,7 @@ test
 
 ---
 
-## What is Open Assistant?
+## What is Open Assistant? 
 
 <p align="center">
 Open Assistant is a project meant to give everyone access to a great chat based
